@@ -35,7 +35,7 @@ body {
 .input, .item__label{
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .section-add__wrapper {
@@ -134,7 +134,7 @@ button {
 }
 
 .list__item  > .input {
-    width: 226px
+    width: 226px;
 }
 
 .item__img {
@@ -155,12 +155,12 @@ button {
 
 /* Edit Task */
 .section__list .list__item .input {
-    display:none
+    display:none;
 }
 
 .section__list .list__item__edit-mode .input {
     display:inline-block;
-    width:224px
+    width:224px;
 }
 
 .section__list .list__item__edit-mode .item__label {
